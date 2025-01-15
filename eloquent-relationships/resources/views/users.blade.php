@@ -18,7 +18,7 @@
                         <tr>
                             <th>Nama User</th>
                             <th>Nomor Telepon</th>
-                        </tr>                      
+                        </tr>
                     </thead>
                     <tbody>
                         @foreach($users as $user)
